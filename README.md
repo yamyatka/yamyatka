@@ -1,4 +1,4 @@
-<!--# Hi, I'm yamyatka 👋
+# Hi, I'm yamyatka 👋
 
 🎓 Student at Petro Mohyla Black Sea National University, Mykolaiv, Ukraine.  
 🐧 Learning C/C++, Python, and Linux on my way to becoming a DevOps engineer.
