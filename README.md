@@ -1,4 +1,4 @@
-# Hi, I'm Myatka 👋
+# Hi, I'm Danylo 👋
 
 🎓 Student at Petro Mohyla Black Sea National University, Mykolaiv, Ukraine.  
 🐧 Learning C/C++, Python, Linux, and web development.  
