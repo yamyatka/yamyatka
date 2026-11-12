@@ -1,7 +1,8 @@
 # Hi, I'm Myatka 👋
 
 🎓 Student at Petro Mohyla Black Sea National University, Mykolaiv, Ukraine.  
-🐧 Learning C/C++, Python, and Linux on my way to becoming a DevOps engineer.
+🐧 Learning C/C++, Python, Linux, and web development.  
+🤖 Exploring AI engineering while working toward a career in DevOps.
 
 ```python
 about_me = {
@@ -25,6 +26,8 @@ about_me = {
 - Building programming skills with C/C++ and Python
 - Learning how systems work and how to automate everyday tasks
 - Working toward my first DevOps projects
+- Learning to build websites and web applications
+- Exploring AI engineering and building applications with AI models
 
 ### 📫 Contact
 
