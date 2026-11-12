@@ -1,11 +1,11 @@
-# Hi, I'm yamyatka 👋
+# Hi, I'm Myatka 👋
 
 🎓 Student at Petro Mohyla Black Sea National University, Mykolaiv, Ukraine.  
 🐧 Learning C/C++, Python, and Linux on my way to becoming a DevOps engineer.
 
 ```python
 about_me = {
-    "username": "yamyatka",
+    "username": "Myatka",
     "studying": ["C", "C++", "Python", "Linux"],
     "direction": "DevOps Engineering",
     "approach": "Learn by doing",
